@@ -1,6 +1,5 @@
 # CN476-65A
-
-‘‘‘
+```
 room:	505/2
 rfc1180	:	https://datatracker.ietf.org/doc/html/rfc1180
 rfc7414	:	https://datatracker.ietf.org/doc/html/rfc7414
@@ -30,5 +29,4 @@ GNS3	:
 OSINT	:	
 DID	:	
 LETSENCRYPT
-
-‘‘‘
+```
