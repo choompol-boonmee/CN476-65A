@@ -22,7 +22,8 @@ BLOCKCHAIN - SUBSTRATE
 EM		:	https://youtu.be/FWCN_uI5ygY, https://youtu.be/W1cTpqM9DaU, https://en.wikipedia.org/wiki/Electromagnetic_radiation
 OPTIC	:	https://youtu.be/jZOg39v73c4
 ETHER	:	https://youtu.be/i8CmibhvZ0c, https://en.wikipedia.org/wiki/Ethernet_physical_layer
-WIFI	:	https://youtu.be/IbUflaeJcU8, https://youtu.be/YnWCRUoTEAI, https://www.tp-link.com/th/wifi6/
+WIFI	:	https://youtu.be/IbUflaeJcU8, https://youtu.be/YnWCRUoTEAI, https://www.tp-link.com/th/wifi6
+    https://youtu.be/JuuKF1RFvBM
 GPS	: 	https://youtu.be/OpkatIqkLO8
 BLUETOOTH	:	https://youtu.be/ogJB5fiQ9kM
 GNS3	:	
