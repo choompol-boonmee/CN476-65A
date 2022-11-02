@@ -35,4 +35,7 @@ LETSENCRYPT
 TOR
 IPFS tutorials : https://youtu.be/5Uj6uR3fp-U
 
+- BLOCKCHAIN
+- VC : (Verifiable Credential)
+
 ```
