@@ -7,6 +7,13 @@ DNS : https://www.diggui.com/
 DNS root : https://iana.org/domains/root
 DNS root :https://iana.org/domains/root/servers
 
+TCP/IP headers
+https://www.networkacademy.io/sites/default/files/inline-images/comparing-ipv4-and-ipv6-headers.png
+https://343networks.files.wordpress.com/2010/06/ipv4-ipv6-header.gif
+
+Hash Service : https://hashingservice.com/
+SHA-1 Hash Generator : https://codebeautify.org/sha1-hash-generator
+
 room:	505/2
 rfc1180	:	https://datatracker.ietf.org/doc/html/rfc1180
 rfc7414	:	https://datatracker.ietf.org/doc/html/rfc7414
