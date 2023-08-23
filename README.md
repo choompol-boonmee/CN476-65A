@@ -1,8 +1,11 @@
 # CN476-65A
 ```
 
-http://www.kloth.net/services/dig.php
-https://www.diggui.com/
+DNS : http://www.kloth.net/services/dig.php
+DNS : https://www.diggui.com/
+
+DNS root : https://iana.org/domains/root
+DNS root :https://iana.org/domains/root/servers
 
 room:	505/2
 rfc1180	:	https://datatracker.ietf.org/doc/html/rfc1180
