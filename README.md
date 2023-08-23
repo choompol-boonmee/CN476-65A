@@ -1,5 +1,9 @@
 # CN476-65A
 ```
+
+http://www.kloth.net/services/dig.php
+https://www.diggui.com/
+
 room:	505/2
 rfc1180	:	https://datatracker.ietf.org/doc/html/rfc1180
 rfc7414	:	https://datatracker.ietf.org/doc/html/rfc7414
