@@ -7,7 +7,7 @@ DNS : https://www.diggui.com/
 DNS root : https://iana.org/domains/root
 DNS root :https://iana.org/domains/root/servers
 
-TCP/IP headers
+TCP/IP headers images
 https://www.networkacademy.io/sites/default/files/inline-images/comparing-ipv4-and-ipv6-headers.png
 https://343networks.files.wordpress.com/2010/06/ipv4-ipv6-header.gif
 
