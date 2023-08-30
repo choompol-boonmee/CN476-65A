@@ -1,5 +1,6 @@
 # CN476-65A
 ```
+2023-08-30 : https://youtube.com/live/wqurOW4MZM0
 
 DNS : http://www.kloth.net/services/dig.php
 DNS : https://www.diggui.com/
