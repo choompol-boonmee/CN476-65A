@@ -1,5 +1,5 @@
 # CN476-65A
-2023-09-06 : 
+2023-09-06 : <https://youtube.com/live/oQRcqJU-sxg>
 
 
 ## How IPFS Works in Under 5 Minutes
