@@ -75,4 +75,33 @@ IPFS tutorials : https://youtu.be/5Uj6uR3fp-U
 - BLOCKCHAIN
 - VC : (Verifiable Credential)
 
+2023-10-25
+
+1. WIFI show password
+
+netsh wlan show profile
+netsh wlan show profile name="BMFWIFI" key=clear
+netsh wlan show profile name="BMFWIFI" key=clear | findstr Key
+
+2. WebRTC monitor
+
+https://talkroom.io/
+
+chrome://webrtc-internals
+
+3. block chain
+
+1. method and step
+https://blocktechbrew.com/polkadot-and-substrate-how-to-build-a-custom-blockchain/
+https://docs.substrate.io/install/windows/
+
+2. tutorials
+https://youtu.be/YDaKholaJuo
+
+3. explain
+
+https://www.reuters.com/graphics/TECHNOLOGY-BLOCKCHAIN/010070P11GN/index.html
+
+
+
 ```
