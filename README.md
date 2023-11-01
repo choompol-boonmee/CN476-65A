@@ -102,6 +102,8 @@ https://youtu.be/YDaKholaJuo
 
 https://www.reuters.com/graphics/TECHNOLOGY-BLOCKCHAIN/010070P11GN/index.html
 
+git@github.com:alexfertel/rust-algorithms.git
 
+https://github.com/alexfertel/rust-algorithms.git
 
 ```
