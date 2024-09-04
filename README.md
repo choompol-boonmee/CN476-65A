@@ -46,7 +46,9 @@ HASH	:
 INSIDE GIT
 TCPDUMP	:	https://youtu.be/hWc-ddF5g1I
 RUST TCP	:	https://youtu.be/bzja9fQWzdA
-WIREGUARD	:
+WIREGUARD	:    <https://www.wireguard.com/>
+                <https://www.wireguard.com/papers/wireguard.pdf>
+
 WIRESHARK
 NGINX
 WEB3
