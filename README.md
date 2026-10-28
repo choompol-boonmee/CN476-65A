@@ -1,6 +1,4 @@
 # CN476-65A
-2023-09-06 : <https://youtube.com/live/oQRcqJU-sxg>
-
 Analyzing actual Ethernet encoding | Networking tutorial (4 of 13)
 https://youtu.be/i8CmibhvZ0c?t=338
 
@@ -49,6 +47,9 @@ TOR browser
 
 
 2023-08-30 : https://youtube.com/live/wqurOW4MZM0
+2023-09-06 : <https://youtube.com/live/oQRcqJU-sxg>
+
+
 
 ```
 
