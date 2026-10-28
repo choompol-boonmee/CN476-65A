@@ -1,6 +1,28 @@
 # CN476-65A
 2023-09-06 : <https://youtube.com/live/oQRcqJU-sxg>
 
+Analyzing actual Ethernet encoding | Networking tutorial (4 of 13)
+https://youtu.be/i8CmibhvZ0c?t=338
+
+Gigabit Ethernet 101: Basics to Implementation
+https://resources.altium.com/p/gigabit-ethernet-101-basics-implementation
+
+Optical fiber cables, how do they work? | ICT #3
+https://youtu.be/jZOg39v73c4
+
+How Fiber Optics Works 🌎
+https://youtu.be/zAVsTubdd_Q
+
+Understanding Spectrum! | ICT #6
+https://youtu.be/DXt-rXDu9M8
+
+What is QAM modulation?
+https://youtu.be/9_478TsTNPw
+
+https://www.wirelessexplained.com/what-is-qam-modulation/
+
+How Starlink Actually Works
+https://youtu.be/DW-aL_MiUz4?t=409
 
 ## How IPFS Works in Under 5 Minutes
 <https://youtu.be/TbagkanDeiU>
