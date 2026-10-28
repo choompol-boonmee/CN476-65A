@@ -11,6 +11,9 @@ https://youtu.be/jZOg39v73c4
 How Fiber Optics Works 🌎
 https://youtu.be/zAVsTubdd_Q
 
+Submarine Cable Map
+https://www.submarinecablemap.com/
+
 Understanding Spectrum! | ICT #6
 https://youtu.be/DXt-rXDu9M8
 
